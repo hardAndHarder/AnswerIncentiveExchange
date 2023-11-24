@@ -98,3 +98,12 @@ On Windows, if you're seeing an error containing `EPERM` it may be related to sp
   [NEAR Wallet]: https://wallet.testnet.near.org/
   [near-cli]: https://github.com/near/near-cli
   [gh-pages]: https://github.com/tschaub/gh-pages
+  
+My idea:
+=======
+
+This project is a platform that allows people to ask and answer using near accounts. There are many similar projects running.
+
+But the special thing about this project is that we have a reward system. The system works like this: when you answer a question, your answer can be liked and disliked by others. For each like, 1 point is added to your account. You can use these points to exchange for Near tokens. 100 points for 1 near. This will encourage replies and make users more active.
+
+So what to do when a person uses multiple accounts to spam likes to make money from the project as well as avoid useless answers? I thought about this and I thought it would be great if this was decided by other users. If you see any suspicious signs from the answer, other users can dislike it and cause the spammer to be deducted 10 points. So that's all about my project.
