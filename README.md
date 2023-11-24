@@ -107,3 +107,50 @@ This project is a platform that allows people to ask and answer using near accou
 But the special thing about this project is that we have a reward system. The system works like this: when you answer a question, your answer can be liked and disliked by others. For each like, 1 point is added to your account. You can use these points to exchange for Near tokens. 100 points for 1 near. This will encourage replies and make users more active.
 
 So what to do when a person uses multiple accounts to spam likes to make money from the project as well as avoid useless answers? I thought about this and I thought it would be great if this was decided by other users. If you see any suspicious signs from the answer, other users can dislike it and cause the spammer to be deducted 10 points. So that's all about my project.
+
+Future:
+=======
+Error Handling:
+
+    Enhance error handling and provide meaningful error messages. This helps users understand issues when they arise.
+
+Gas Efficiency:
+
+    Optimize gas efficiency. Reducing the computational and storage costs of your contract can lead to lower transaction fees for users.
+
+Security:
+
+    Conduct thorough security audits. Consider potential vulnerabilities and attack vectors, especially in functions that involve transferring tokens.
+
+Data Structures:
+
+    Evaluate the efficiency of data structures. Depending on the access patterns, you might want to choose different data structures or explore ways to minimize storage costs.
+
+Functionality:
+
+    Consider additional functionalities that could enhance the user experience.
+    Implement moderation features to handle inappropriate content or abuse.
+
+Versioning:
+
+    Plan for future updates with versioning. This ensures a smooth transition for users when deploying new versions of the contract.
+
+Testing:
+
+    Expand your test coverage. Unit tests and integration tests are crucial to catch potential bugs and ensure that your contract behaves as expected.
+
+Frontend Integration:
+
+    If applicable, improve the integration with the frontend. Ensure a seamless user experience and provide clear feedback.
+
+Community Engagement:
+
+    Foster community engagement. Encourage feedback from users and other developers to identify areas for improvement.
+
+Scalability:
+
+    Assess the scalability of your contract. Consider potential bottlenecks and how your contract might handle increased usage.
+
+Upgradeability:
+
+    Explore upgradeability patterns. While immutability is a principle of many blockchain contracts, there are patterns that allow for certain upgrades.
